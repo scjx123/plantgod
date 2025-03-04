@@ -1,0 +1,9 @@
+Dependencies for Project 'Blinky', Target 'ULink2': (DO NOT MODIFY !)
+CompilerVersion: 5060183::V5.06 update 2 (build 183)::ARMCC
+F (.\Blinky.c)(0x56441C9A)()
+F (.\Abstract.txt)(0x57551606)()
+F (C:/Users/steve/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.1/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c)(0x56441C9A)()
+F (RTE/CMSIS/RTX_Conf_CM.c)(0x56441C9A)()
+F (RTE/Device/MKL25Z128xxx4/startup_MKL25Z4.s)(0x56441C9A)()
+F (RTE/Device/MKL25Z128xxx4/system_MKL25Z4.c)(0x56441C9A)()
+F (RTE/Device/MKL25Z128xxx4/system_MKL25Z4.h)(0x56441C9A)()
