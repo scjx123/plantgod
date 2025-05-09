@@ -392,6 +392,31 @@
           </Files>
         </Group>
         <Group>
+          <GroupName>drivers</GroupName>
+          <Files>
+            <File>
+              <FileName>fsl_adc16.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\fsl_adc16.c</FilePath>
+            </File>
+            <File>
+              <FileName>fsl_adc16.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\fsl_adc16.h</FilePath>
+            </File>
+            <File>
+              <FileName>fsl_common.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\fsl_common.c</FilePath>
+            </File>
+            <File>
+              <FileName>fsl_common.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\fsl_common.h</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
           <GroupName>::CMSIS</GroupName>
         </Group>
         <Group>
@@ -444,5 +469,14 @@
       </file>
     </files>
   </RTE>
+
+  <LayerInfo>
+    <Layers>
+      <Layer>
+        <LayName>blinky</LayName>
+        <LayPrjMark>1</LayPrjMark>
+      </Layer>
+    </Layers>
+  </LayerInfo>
 
 </Project>
